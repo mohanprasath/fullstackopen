@@ -1,1 +1,3 @@
-# fullstackmooc
+# fullstackopen
+
+Course exercise submission repo
